@@ -32,7 +32,7 @@ def predict(counter,image):
     #sort contours
     sorted_ctrs = sorted(ctrs, key=lambda ctr: cv2.boundingRect(ctr)[0])
 
-    foldername = "CustomInput{}".format(counter)
+    foldername = "custom{}".format(counter)
     os.mkdir(foldername)
 
     idx=0
