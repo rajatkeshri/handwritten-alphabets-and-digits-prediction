@@ -1,1 +1,1 @@
-# handwritten-alphabets-and-digits-prediction
+# Handwritten-alphabets-and-digits-prediction
